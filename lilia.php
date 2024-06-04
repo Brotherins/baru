@@ -50,12 +50,12 @@ if (isset($_GET['sepeda'])) {
     <!-- This is Squarespace. --><!-- vibraphone-flamingo-y7kz -->
 <base href="">
 <meta charset="utf-8" />
-<title>Selalu Dicari Pemain Slot Karena Scatter Hitamnya <?php echo $BRAND; ?></title>
+<title> <?php echo $BRAND; ?> Selalu Dicari Pemain Slot Karena Scatter Hitamnya</title>
 <meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" /><link rel="icon" type="image/x-icon" href="https://assets.squarespace.com/universal/default-favicon.ico"/>
 <link rel="canonical" href="<?php echo $urlPath ?>"/>
 <link rel="amphtml" href="https://nagawarnahijau.shop/amp/sepeda/?amp=<?php echo $BRAND; ?>">
 <meta property="og:site_name" content="<?php echo $BRAND; ?>"/>
-<meta property="og:title" content="Selalu Dicari Pemain Slot Karena Scatter Hitamnya <?php echo $BRAND; ?>"/>
+<meta property="og:title" content=" <?php echo $BRAND; ?> Selalu Dicari Pemain Slot Karena Scatter Hitamnya"/>
 <meta property="og:url" content="<?php echo $urlPath ?>"/>
 <meta property="og:type" content="product"/>
 <meta property="og:description" content="diminati dan selalu dicari para penggemar pemainan slot karena mudah sekali mendapatkan scatter hitam. Kalau main di tempat lain tidak mudah mendapatkan scatter hitam. Situs Gacor"/>
@@ -69,13 +69,13 @@ if (isset($_GET['sepeda'])) {
 <meta property="product:original_price:currency" content="IDR"/>
 <meta property="product:sale_price:amount" content="100000.00"/>
 <meta property="product:sale_price:currency" content="IDR"/>
-<meta itemprop="name" content="Selalu Dicari Pemain Slot Karena Scatter Hitamnya <?php echo $BRAND; ?>"/>
+<meta itemprop="name" content=" <?php echo $BRAND; ?> Selalu Dicari Pemain Slot Karena Scatter Hitamnya"/>
 <meta itemprop="url" content="<?php echo $urlPath ?>"/>
 <meta itemprop="description" content="diminati dan selalu dicari para penggemar pemainan slot karena mudah sekali mendapatkan scatter hitam. Kalau main di tempat lain tidak mudah mendapatkan scatter hitam. Situs Gacor"/>
 <meta itemprop="thumbnailUrl" content="http://static1.squarespace.com/static/665b22cbcc0df27471a18a26/665b244166b67800b9e765d6/665b244ee788e97c21c65607/1717251555720/bahaninibosterbaru3.jpg?format=1500w"/>
 <link rel="image_src" href="http://static1.squarespace.com/static/665b22cbcc0df27471a18a26/665b244166b67800b9e765d6/665b244ee788e97c21c65607/1717251555720/bahaninibosterbaru3.jpg?format=1500w" />
 <meta itemprop="image" content="http://static1.squarespace.com/static/665b22cbcc0df27471a18a26/665b244166b67800b9e765d6/665b244ee788e97c21c65607/1717251555720/bahaninibosterbaru3.jpg?format=1500w"/>
-<meta name="twitter:title" content="Selalu Dicari Pemain Slot Karena Scatter Hitamnya <?php echo $BRAND; ?>"/>
+<meta name="twitter:title" content=" <?php echo $BRAND; ?> Selalu Dicari Pemain Slot Karena Scatter Hitamnya"/>
 <meta name="twitter:image" content="http://static1.squarespace.com/static/665b22cbcc0df27471a18a26/665b244166b67800b9e765d6/665b244ee788e97c21c65607/1717251555720/bahaninibosterbaru3.jpg?format=1500w"/>
 <meta name="twitter:url" content="https://vibraphone-flamingo-y7kz.squarespace.com/store/p/slot456-selalu-dicari-pemain-slot-karena-scatter-hitamnya"/>
 <meta name="twitter:card" content="summary"/>
